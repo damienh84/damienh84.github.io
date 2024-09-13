@@ -1,6 +1,6 @@
 # Americas Support Offsite 2024
 
-The goal of this session is for you to have a test site up and running with the Contentsquare, Heap, and Hotjar tags installed.
+The goal of this session is for you to have a test site up and running with the Contentsquare, Heap, and Hotjar tags installed..
 
 # Getting Started
 Complete the following steps before the offsite if you do not already have a GitHub pages test site
